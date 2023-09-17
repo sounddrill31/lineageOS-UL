@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
  <!-- Remotes -->
-    <remote name="github"
+   <!-- <remote name="github"
             fetch="https://github.com"
-            clone-depth="1" />
+            clone-depth="1" /> -->
     <remote name="losul" fetch="https://github.com/LineageOS-UL"/>
  <!--Tree -->
  <project path="device/motorola/addison" name="addison-experimentations/android_device_motorola_addison" remote="github" revision="lineage-20.0" />
